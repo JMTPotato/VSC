@@ -1,6 +1,6 @@
 score = int(input('점수를 입력하세요. '))
 
-if score >=90:         #점수가 90점 이상이면 'A'를 출력
+if score >= 90:         #점수가 90점 이상이면 'A'를 출력
     print('A')     
 
 elif score >= 80 and score < 90:       #점수가 90점 미만 80점 이상이면 'B'를 출력   //else if 아님

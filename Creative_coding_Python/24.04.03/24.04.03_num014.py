@@ -6,3 +6,5 @@ for n1 in range(1, 10, 1):
         print('=', end='')
         print(n2 * n1, '\t', end='')
     print()
+    
+    #구구단 전체 출력하기
